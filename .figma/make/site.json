@@ -1,0 +1,11 @@
+{
+  "title": "UniAgenda",
+  "description": "Organize academic life by accessing enrolled courses and viewing upcoming exams and assignments in chronological order with intuitive mobile navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
